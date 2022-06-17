@@ -1,2 +1,2 @@
 # redhood
-simple ddos script just for educational purposes
+Simple ddos script just for educational purposes
